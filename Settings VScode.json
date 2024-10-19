@@ -113,8 +113,8 @@
     "git-commit": true
   },
   "remote.SSH.remotePlatform": {
-    "172.20.10.14": "linux",
-    "192.168.0.104": "linux"
+    "ip address": "linux",
+    "ip address": "linux"
   },
   "workbench.layoutControl.enabled": false,
   "window.commandCenter": false,
